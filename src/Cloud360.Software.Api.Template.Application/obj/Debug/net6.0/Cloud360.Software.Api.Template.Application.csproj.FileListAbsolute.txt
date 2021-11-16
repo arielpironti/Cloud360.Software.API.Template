@@ -1,0 +1,15 @@
+C:\Users\ArielOscarPironti\source\repos\Cloud360.Software.Api.Template\src\Cloud360.Software.Api.Template.Application\bin\Debug\net6.0\Cloud360.Software.Api.Template.Application.deps.json
+C:\Users\ArielOscarPironti\source\repos\Cloud360.Software.Api.Template\src\Cloud360.Software.Api.Template.Application\bin\Debug\net6.0\Cloud360.Software.Api.Template.Application.dll
+C:\Users\ArielOscarPironti\source\repos\Cloud360.Software.Api.Template\src\Cloud360.Software.Api.Template.Application\bin\Debug\net6.0\ref\Cloud360.Software.Api.Template.Application.dll
+C:\Users\ArielOscarPironti\source\repos\Cloud360.Software.Api.Template\src\Cloud360.Software.Api.Template.Application\bin\Debug\net6.0\Cloud360.Software.Api.Template.Application.pdb
+C:\Users\ArielOscarPironti\source\repos\Cloud360.Software.Api.Template\src\Cloud360.Software.Api.Template.Application\bin\Debug\net6.0\Cloud360.Software.Api.Template.Domain.dll
+C:\Users\ArielOscarPironti\source\repos\Cloud360.Software.Api.Template\src\Cloud360.Software.Api.Template.Application\bin\Debug\net6.0\Cloud360.Software.Api.Template.Domain.pdb
+C:\Users\ArielOscarPironti\source\repos\Cloud360.Software.Api.Template\src\Cloud360.Software.Api.Template.Application\obj\Debug\net6.0\Cloud360.Software.Api.Template.Application.csproj.AssemblyReference.cache
+C:\Users\ArielOscarPironti\source\repos\Cloud360.Software.Api.Template\src\Cloud360.Software.Api.Template.Application\obj\Debug\net6.0\Cloud360.Software.Api.Template.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ArielOscarPironti\source\repos\Cloud360.Software.Api.Template\src\Cloud360.Software.Api.Template.Application\obj\Debug\net6.0\Cloud360.Software.Api.Template.Application.AssemblyInfoInputs.cache
+C:\Users\ArielOscarPironti\source\repos\Cloud360.Software.Api.Template\src\Cloud360.Software.Api.Template.Application\obj\Debug\net6.0\Cloud360.Software.Api.Template.Application.AssemblyInfo.cs
+C:\Users\ArielOscarPironti\source\repos\Cloud360.Software.Api.Template\src\Cloud360.Software.Api.Template.Application\obj\Debug\net6.0\Cloud360.Software.Api.Template.Application.csproj.CoreCompileInputs.cache
+C:\Users\ArielOscarPironti\source\repos\Cloud360.Software.Api.Template\src\Cloud360.Software.Api.Template.Application\obj\Debug\net6.0\Cloud360.Software.Api.Template.Application.csproj.CopyComplete
+C:\Users\ArielOscarPironti\source\repos\Cloud360.Software.Api.Template\src\Cloud360.Software.Api.Template.Application\obj\Debug\net6.0\Cloud360.Software.Api.Template.Application.dll
+C:\Users\ArielOscarPironti\source\repos\Cloud360.Software.Api.Template\src\Cloud360.Software.Api.Template.Application\obj\Debug\net6.0\ref\Cloud360.Software.Api.Template.Application.dll
+C:\Users\ArielOscarPironti\source\repos\Cloud360.Software.Api.Template\src\Cloud360.Software.Api.Template.Application\obj\Debug\net6.0\Cloud360.Software.Api.Template.Application.pdb

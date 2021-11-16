@@ -1,0 +1,16 @@
+services:
+  cloud360.software.api.template.api:
+    build:
+      context: C:\Users\ArielOscarPironti\source\repos\Cloud360.Software.Api.Template
+      dockerfile: src/Cloud360.Software.Api.Template.API/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: cloud360softwareapitemplateapi
+    ports:
+    - target: 80
+    - target: 443
+    volumes:
+    - C:\Users\ArielOscarPironti\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\ArielOscarPironti\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

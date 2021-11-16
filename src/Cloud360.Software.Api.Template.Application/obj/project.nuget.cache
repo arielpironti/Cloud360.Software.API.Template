@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "8g5V+vbIac5SaM4CqjorgN2nh9eXkwrqR0xTh3K2dmb9QHMnyrL8SQp7OQzuwT8msg5QpI150sNuv4HMzqjYOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ArielOscarPironti\\source\\repos\\Cloud360.Software.Api.Template\\src\\Cloud360.Software.Api.Template.Application\\Cloud360.Software.Api.Template.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ArielOscarPironti\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\ArielOscarPironti\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\ArielOscarPironti\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\ArielOscarPironti\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\ArielOscarPironti\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\ArielOscarPironti\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\ArielOscarPironti\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\ArielOscarPironti\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\ArielOscarPironti\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

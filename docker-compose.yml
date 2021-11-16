@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  {DockerServiceName}:
+    image: ${DOCKER_REGISTRY-}{DockerServiceName}
+    build:
+      context: .
+      dockerfile: src/Cloud360.Software.Api.Template.API/Dockerfile

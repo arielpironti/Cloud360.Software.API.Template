@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>{TargetFramework}</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cloud360.Software.Api.Template.Application\Cloud360.Software.Api.Template.Application.csproj" />
+    <ProjectReference Include="..\Cloud360.Software.Api.Template.Domain\Cloud360.Software.Api.Template.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Services\" />
+    <Folder Include="Persistence\" />
+  </ItemGroup>
+
+</Project>

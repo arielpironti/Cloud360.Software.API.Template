@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Gs8p0AHr78RHeVg6Bn5YYekgm8whl+wGa1rmKLFBYg0=",
+  "Source": "Cloud360.Software.Api.Template.API",
+  "BasePath": "_content/Cloud360.Software.Api.Template.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
